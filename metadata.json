@@ -1,0 +1,6 @@
+{
+  "name": "AdMatch AI — Ad-to-Landing-Page Message Match Auditor",
+  "description": "Every ad promise verified against the landing page with strict evidence grounding, position awareness, compliance detection, and deterministic scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
